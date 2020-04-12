@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/digitorus/timestamp"
+	"github.com/unidoc/timestamp"
 )
 
 // ExampleCreateRequest_ParseResponse demonstrates the creation of a time-stamp request, sending
