@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/unidoc/pkcs7"
+	"github.com/stasomega1/pkcs7"
 )
 
 // FailureInfo contains the result of an Time-Stamp request. See
